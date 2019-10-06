@@ -98,7 +98,7 @@
 	<repositories>
 		<repository>
 			<id>myMavenRepo</id>
-			<url>${myMavenRepoReadUrl}</url>
+			<url>${myMavenRepoWriteUrl}</url>
 		</repository>
 	</repositories>
 
