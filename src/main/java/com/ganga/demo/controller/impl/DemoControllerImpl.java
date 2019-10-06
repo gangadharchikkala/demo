@@ -8,7 +8,7 @@ public class DemoControllerImpl {
 
 	@GetMapping(path = "/jyesh")
 	public String hello1() {
-		return "<html><body bgcolor='yellow'><marquee><b>hi my name is jyesh</b></marquee></body></html>";
+		return "<html><body bgcolor='yellow'><marquee><b>hi my name is elles vemulapa</b></marquee></body></html>";
 	}
 
 	@GetMapping(path = "/tanviha")
